@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing football, reading and coding
 - 🌱 I’m currently learning cloud and security, still on the way
 - 💞️ I’m looking to collaborate on guys who are working on clould and security tools
-- 📫 How to reach me: jackiewell1983@gmail.com
+- 📫 How to reach me: submit an issue to me :)
 
 <!---
 jackiewell/jackiewell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
